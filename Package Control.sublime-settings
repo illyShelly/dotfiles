@@ -1,15 +1,35 @@
 {
-  "installed_packages":
-  [
-    "A File Icon",
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"Boxy Theme",
+		"Color Highlighter",
+		"Color Scheme - Rainbow",
+		"Colorsublime",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Javascript Beautify",
+		"JavaScriptFunctionDefinition",
+		"Package Control",
+		"React and React Router Snippets",
+		"React Development Snippets",
+		"React ES6 Snippets",
+		"React IDE",
+		"SCSS",
+		"Sublime Tutor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-eslint"
+	]
 }
